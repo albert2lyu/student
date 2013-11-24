@@ -1,0 +1,77 @@
+10
+
+dir
+2
+svn://192.168.1.251/5_EmbeddedLinux/1_DMA6410L/Android/trunk/sdk/AP
+svn://192.168.1.251/5_EmbeddedLinux/1_DMA6410L/Android
+
+
+
+2011-09-28T03:48:42.487334Z
+2
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5f44b83d-38ca-e544-af13-28315a126d9a
+
+led_driver
+dir
+
+Led_Control
+dir
+
+mkimg
+dir
+
+apk
+dir
+
+DoApp.sh
+file
+
+
+
+
+2011-09-28T09:26:09.562729Z
+683498efe78535d900538b5375f2ef9d
+2011-09-28T03:48:42.487334Z
+2
+admin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1193
+
+busybox_1.15.0
+dir
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="fill_parent" android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:orientation="vertical" android:gravity="center">
+        <LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/linearLayout4">
+            <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/textView1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_weight="1" android:gravity="center" android:text="LED-D608"></TextView>
+            <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/textView2" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_weight="1" android:gravity="center" android:text="LED-D609"></TextView>
+        </LinearLayout>
+        <LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/linearLayout2">
+            <ImageView android:layout_height="wrap_content" android:src="@drawable/dark" android:layout_width="wrap_content" android:layout_weight="1" android:id="@+id/imageLeft"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:src="@drawable/dark" android:layout_width="wrap_content" android:layout_weight="1" android:id="@+id/imageRight"></ImageView>
+        </LinearLayout>
+        <LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/linearLayout3" android:layout_marginTop="10dp">
+            <Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Exit" android:id="@+id/button"></Button>
+        </LinearLayout>
+    </LinearLayout>
